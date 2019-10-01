@@ -22,7 +22,7 @@ pod 'OTPInputView'
 
 ## Author
 
-Emmanuel Albania, zemmanuel.albania@mynt.xyz
+Emmanuel Albania, ej.albania@gmail.com
 
 ## License
 
